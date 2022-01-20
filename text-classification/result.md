@@ -1,0 +1,33 @@
+#Result
+```
+  label                                               text
+0   ham  Go until jurong point, crazy.. Available only ...
+1   ham                      Ok lar... Joking wif u oni...
+2  spam  Free entry in 2 a wkly comp to win FA Cup fina...
+3   ham  U dun say so early hor... U c already then say...
+4   ham  Nah I don't think he goes to usf, he lives aro...
+5  spam  FreeMsg Hey there darling it's been 3 week's n...
+6   ham  Even my brother is not like to speak with me. ...
+7   ham  As per your request 'Melle Melle (Oru Minnamin...
+8  spam  WINNER!! As a valued network customer you have...
+9  spam  Had your mobile 11 months or more? U R entitle...
+[('Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat...', {'cats': {'ham': True, 'spam': False}}), ('Ok lar... Joking wif u oni...', {'cats': {'ham': True, 'spam': False}}), ("Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2005. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075over18's", {'cats': {'ham': False, 'spam': True}})]
+
+
+losses : 
+{'textcat': 281.40325116012997}
+{'textcat': 408.18471529143375}
+{'textcat': 501.7215645908159}
+{'textcat': 554.1633157546447}
+{'textcat': 594.541040905403}
+{'textcat': 630.4029238377535}
+{'textcat': 656.9947752664757}
+{'textcat': 682.8502010320763}
+{'textcat': 692.1684988581613}
+{'textcat': 708.4641108550624}
+scores : 
+[[9.9999440e-01 5.5444802e-06]
+ [1.6431263e-04 9.9983561e-01]]
+labels : ['ham', 'spam']
+
+```
